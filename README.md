@@ -49,7 +49,8 @@ aims 1
 algorithms 1	
 alive 1	
 all 4	
-allocate 1	
+allocate 1
+...
 ```
 
 ## License
