@@ -20,9 +20,8 @@ export HADOOP_CLASSPATH=/usr/lib/jvm/java/lib/tools.jar
 mapred streaming -mapper mapper.py -reducer reducer.py -input words-input -output words-output
 ```
 
-## Output
+## Output _words-input/part-00000_
 ```bash
-_words-input/part-00000
 a 84	
 ability 1	
 about 3	
